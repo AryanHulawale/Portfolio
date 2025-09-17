@@ -1,4 +1,4 @@
-## Portfolio Website
+# Portfolio Website
 
 A personal web showcase built with web technologies. It highlights projects, skills, and experience with an interactive, minimal, and responsive design.
 
@@ -14,7 +14,11 @@ A personal web showcase built with web technologies. It highlights projects, ski
 ---
 
 ## Demo
+
+```
 https://aryanhulawale.github.io/Portfolio/
+```
+
 ---
 
 ## Installation
@@ -27,6 +31,14 @@ Install my-project with npm
 ```
 
 ---
+
+## 📬 Contact
+
+If you’d like to connect or collaborate, feel free to reach out via the contact form on the website or through:
+
+- **Email:** aryanhulawale1703@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/aryan-hulawale/
+
 
 
 
